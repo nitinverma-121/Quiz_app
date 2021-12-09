@@ -1,6 +1,13 @@
 # quiz_app
 
 A new Flutter project.
+# This is a simple US history related Quiz application created using flutter framework and dart language.
+Main features are:-  
+1) All questions are of true false types.
+2) Total 10 questions are there.
+3) It shows the total score out of 10 at the end of the quiz.
+4) We have a previous and next button to toggle between the questions.
+
 
 ## Getting Started
 
